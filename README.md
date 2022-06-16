@@ -1,0 +1,2 @@
+# Apple-Mobility-index
+The data is geographically divided into countries/regions, but does have some greater specificity in some larger/capitol cities. The data is broken down into two main categories: walking and driving. This data set measures the change in routing requests since January 13, 2020 across those two categories on a daily abases and per geographical division. A full data description can be found on the Apple web site.
